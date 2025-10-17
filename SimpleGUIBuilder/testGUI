@@ -1,0 +1,3 @@
+[[sg.Column([[sg.Text(text="LEFT")]]), 
+sg.Column([[sg.Text(text="RIGHT")], 
+[sg.Canvas(size=(500, 500))]])]]

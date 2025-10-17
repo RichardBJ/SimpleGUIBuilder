@@ -1,0 +1,1 @@
+[[sg.Column([[sg.Text()], [sg.Text(), sg.Radio(None, None)], [sg.Text(), sg.Radio(None, None)], [sg.Text(), sg.Radio(None, None)]])], [sg.Column([[sg.Canvas(size=(500, 500))]])]]
